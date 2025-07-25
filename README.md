@@ -112,7 +112,7 @@ Inside Colab, run:
 ---
 
 ## 📸 Example Output
-
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/4519b73f-ad5d-4733-a450-422a87cf9b1a" />
 
 
 ---
