@@ -117,6 +117,14 @@ Inside Colab, run:
 
 ---
 
+
+## 📎 Open in Colab
+
+[![Open In Colab](https://colab.research.google.com/drive/1cOeRH2O32g_qtD5wgiJqKpAH_UImvEzh?usp=sharing)
+
+> Click the badge above or [this link](https://colab.research.google.com/drive/1cOeRH2O32g_qtD5wgiJqKpAH_UImvEzh?usp=sharing) to run the project instantly in Google Colab!
+
+---
 ## 🙏 Acknowledgments
 
 * Huge thanks to [Ultralytics](https://github.com/ultralytics/ultralytics) for their open-source YOLOv5 models.
